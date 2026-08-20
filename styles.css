@@ -95,7 +95,7 @@ a{color:inherit;text-decoration:none}
 .hero-copy{
   position:absolute;
   left:6vw;
-  top: 255px;
+  top: 1603px;
   transform:translateY(-50%);
   z-index:2;
   max-width:550px;
@@ -480,7 +480,7 @@ a{color:inherit;text-decoration:none}
   }
   .hero-copy{
     left:22px;right:22px;
-    top:54%
+    top:35%
   }
   .hero h1{font-size:38px}
   .hero-copy>p:not(.eyebrow){font-size:12px}
@@ -517,7 +517,7 @@ a{color:inherit;text-decoration:none}
   }
   .reserve-copy{
     left:20px;right:20px;
-    top:50%;
+    top:35%;
     width:auto
   }
   .access{grid-template-columns:1fr;gap:35px}
