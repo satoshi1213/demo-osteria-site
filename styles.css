@@ -95,7 +95,7 @@ a{color:inherit;text-decoration:none}
 .hero-copy{
   position:absolute;
   left:6vw;
-  top: 1603px;
+  top: 160px;
   transform:translateY(-50%);
   z-index:2;
   max-width:550px;
